@@ -72,7 +72,7 @@ When signing up or creating demo data, players can select a home ground for thei
 
   
 ## Gameplay
-Players can challenge each other to combat, with battles occurring at the home ground of the challenged player. The game displays opponent statistics, allowing players to decide whether to challenge them or skip to the next player.When attacking,  the character with the highest speed will attack first and that character will keep attacking until it dies. In plain words, in every turn the character with the highest speed from the turn will attack. 
+Players can challenge each other to combat, with battles occurring at the home ground of the challenged player. The game displays opponent statistics, allowing players to decide whether to challenge them or skip to the next player.When attacking,  the character with the highest speed will attack first to the character with the lowest defence, and for the next turn from the same team the oppurtunity will be given to the character in the order of speed. Each player will be given 10 turns and winner si decalred if all the characters from the opposing team is dead. 
 
 ## Customization and Progression
 Players can customize characters with armor and artifacts, although these details are not displayed during battles. Additionally, players can progress and earn gold coins through battles. 
