@@ -1,0 +1,482 @@
+                  _   _                           _
+  /\/\  _   _ ___| |_(_) ___    /\/\   __ _ _   _| |__   ___ _ __ ___  
+ /    \| | | / __| __| |/ __|  /    \ / _` | | | | '_ \ / _ \ '_ ` _ \ 
+/ /\/\ \ |_| \__ \ |_| | (__  / /\/\ \ (_| | |_| | | | |  __/ | | | | |
+\/    \/\__, |___/\__|_|\___| \/    \/\__,_|\__, |_| |_|\___|_| |_| |_|
+        |___/                               |___/
+                                                        From CODE A.N.V
+ __________________________________________________|_._._._._._._._._._.
+ \_________________________________________________|_#_#_#_#_#_#_#_#_#_|
+                                                   l
+
+                          Welcome to the Game
+
+------------------------------ Main Menu ------------------------------
+
+1. Sign Up
+2. Login
+3. Exit
+
+Enter your choice: 1
+
+----------------------------- SignUp Menu -----------------------------
+
+Enter username: VIMOSH
+Enter player name: VIMOSH
+
+Select your home ground for battles 
+
+1. Hillcrest
+2. Marshland
+3. Desert
+4. Arcane
+
+Enter your choice: 1
+
+
+Account created successfully.
+Your user ID is : 1000
+You have been awarded 500 gold coins.
+
+Now, let's buy an army for your user.
+
+-------------------------------- Shop ---------------------------------
+
+                          Welcome to the Shop!
+
+Your Army Composition:
+
+- Home Ground: Hillcrest
+
+- Archer: You don't have selected any type of archers yet.
+- Knight: You don't have selected any type of knights yet
+- Mage: You don't have selected any type of mages yet
+- Healer: You don't have selected any type of healers yet
+- Mythical Creature: You don't have selected any type of mythical creatures yet
+
+!! Go to shop & buy the suitable character
+
+
+1. Buy Army
+2. Buy Equipments
+3. Sell Items
+4. Back to menu
+
+Enter your choice: 1
+
+
+------------------------------ Army Shop ------------------------------
+
+
+Welcome to the Army Shop!
+
+Choose a character category
+
+1. Archer
+2. Knight
+3. Mage
+4. Healer
+5. Mythical Creature
+6. Back to Shop
+
+Enter your choice: 1
+
+Choose an Archer
+
+1. Shooter - 80 gc
+2. Ranger - 115 gc
+3. Sunfire - 160 gc
+4. Zing - 200 gc
+5. Sagittarius - 230 gc
+6. Back to Shop
+
+
+Enter your choice: 1
+
+Character purchased successfully!
+Remaining gold coins: 420
+
+Welcome to the Army Shop!
+
+Choose a character category
+
+1. Archer
+2. Knight
+3. Mage
+4. Healer
+5. Mythical Creature
+6. Back to Shop
+
+Enter your choice: 2
+
+Choose a Knight
+
+1. Squire - 85 gc
+2. Cavalier - 110 gc
+3. Templar - 155 gc
+4. Zoro - 180 gc
+5. Swiftblade - 250 gc
+
+
+Enter your choice: 1
+
+Character purchased successfully!
+Remaining gold coins: 335
+
+Welcome to the Army Shop!
+
+Choose a character category
+
+1. Archer
+2. Knight
+3. Mage
+4. Healer
+5. Mythical Creature
+6. Back to Shop
+
+Enter your choice: 3
+
+Choose a Mage
+
+1. Warlock - 100 gc
+2. Illusionist - 120 gc
+3. Enchanter - 160 gc
+4. Conjurer - 195 gc
+5. Eldritch - 270 gc
+6. Back to Shop
+
+
+Enter your choice: 1
+
+Character purchased successfully!
+Remaining gold coins: 235
+
+Welcome to the Army Shop!
+
+Choose a character category
+
+1. Archer
+2. Knight
+3. Mage
+4. Healer
+5. Mythical Creature
+6. Back to Shop
+
+Enter your choice: 4
+
+Choose a Healer
+
+1. Soother - 95 gc
+2. Medic - 125 gc
+3. Alchemist - 150 gc
+4. Saint - 200 gc
+5. Lightbringer - 260 gc
+6. Back to Shop
+
+
+Enter your choice: 1
+
+Character purchased successfully!
+Remaining gold coins: 140
+
+Welcome to the Army Shop!
+
+Choose a character category
+
+1. Archer
+2. Knight
+3. Mage
+4. Healer
+5. Mythical Creature
+6. Back to Shop
+
+Enter your choice: 5
+
+Choose a Mythical Creature
+
+1. Dragon - 120 gc
+2. Basilisk - 165 gc
+3. Hydra - 205 gc
+4. Pegasus - 340 gc
+5. Phoenix - 275 gc
+6. Back to Shop
+
+
+Enter your choice: 1
+
+Character purchased successfully!
+Remaining gold coins: 20
+You need to sell your existing characters before buying new ones.
+
+
+- Home Ground: Hillcrest
+
+- Archer: Shooter
+- Knight: Squire
+- Mage: Warlock
+- Healer: Soother
+- Mythical Creature: Dragon
+
+
+Redirecting to sell option...
+- Loading ...
+
+Welcome to the Sell Items section!
+-----------------------------------
+
+1. Sell Army
+2. Back
+
+Enter your choice: 2
+
+
+                          Welcome to the Game
+
+------------------------------ Main Menu ------------------------------
+
+1. Sign Up
+2. Login
+3. Exit
+
+Enter your choice: 2
+
+----------------------------- Login Menu ------------------------------
+
+Enter your username: VIMOSH
+
+-- Welcome, VIMOSH!
+-- User XP : 1
+
+-- Available coins : 20
+
+
+- Home Ground: Hillcrest
+
+- Archer: Shooter
+- Knight: Squire
+- Mage: Warlock
+- Healer: Soother
+- Mythical Creature: Dragon
+
+
+1. Play Battle
+2. Change Player Name
+3. Shop
+4. View your Army
+5. View your Gold Coins
+6. Back to Menu
+
+Enter your choice: 1
+
+GeraltofRivia - 32XP
+1. Play
+2. Next
+3. Back to Menu
+
+Enter your choice: 1
+
+
+------------------------------- Battle --------------------------------
+
+
+- Home Ground: Hillcrest
+
+- Archer: Shooter
+- Knight: Squire
+- Mage: Warlock
+- Healer: Soother
+- Mythical Creature: Dragon
+
+
+Starting battle in 3... 2... 1... Go!
+
+VIMOSH vs GeraltofRivia
+
+
+    ____  ___  ______________    ______     ____  _________________   _______
+   / __ )/   |/_  __/_  __/ /   / ____/    / __ )/ ____/ ____/  _/ | / / ___/
+  / __  / /| | / /   / / / /   / __/      / __  / __/ / / __ / //  |/ /\__ \
+ / /_/ / ___ |/ /   / / / /___/ /___     / /_/ / /___/ /_/ // // /|  /___/ /
+/_____/_/  |_/_/   /_/ /_____/_____/    /_____/_____/\____/___/_/ |_//____/
+
+
+---- VIMOSH's turn - 1
+
+
+VIMOSH's Warlock is fighting with GeraltofRivia's Ranger
+damage: 5.5
+GeraltofRivia's Ranger health is 2.5
+VIMOSH's Warlock's health is 10.0
+
+---- GeraltofRivia's turn - 1
+
+
+GeraltofRivia's Warlock is fighting with VIMOSH's Shooter
+damage: 5.6
+VIMOSH's Shooter health is 0.4
+GeraltofRivia's Warlock's health is 10.0
+
+---- VIMOSH's turn - 2
+
+
+VIMOSH's Shooter is fighting with GeraltofRivia's Ranger
+damage: 5.0
+Ranger died
+VIMOSH's Shooter's health is 0.4
+
+---- GeraltofRivia's turn - 2
+
+
+GeraltofRivia's Medic is fighting with VIMOSH's Shooter
+Squire got healed to health 8.1
+VIMOSH's Shooter health is 0.4
+GeraltofRivia's Medic's health is 11.0
+
+---- VIMOSH's turn - 3
+
+
+VIMOSH's Dragon is fighting with GeraltofRivia's Warlock
+damage: 4.6
+GeraltofRivia's Warlock health is 5.4
+VIMOSH's Dragon's health is 15.0
+
+---- GeraltofRivia's turn - 3
+
+
+GeraltofRivia's Dragon is fighting with VIMOSH's Shooter
+damage: 5.1
+Shooter died
+GeraltofRivia's Dragon's health is 15.0
+
+---- VIMOSH's turn - 4
+
+
+VIMOSH's Squire is fighting with GeraltofRivia's Warlock
+damage: 3.1
+GeraltofRivia's Warlock health is 2.3
+VIMOSH's Squire's health is 7.0
+
+---- GeraltofRivia's turn - 4
+
+
+GeraltofRivia's Squire is fighting with VIMOSH's Soother
+damage: 3.2
+VIMOSH's Soother health is 5.8
+GeraltofRivia's Squire's health is 8.1
+
+---- VIMOSH's turn - 5
+
+
+VIMOSH's Soother is fighting with GeraltofRivia's Warlock
+Dragon got healed to health 15.9
+GeraltofRivia's Warlock health is 2.3
+VIMOSH's Soother's health is 5.8
+
+---- GeraltofRivia's turn - 5
+
+
+GeraltofRivia's Warlock is fighting with VIMOSH's Soother
+damage: 5.2
+VIMOSH's Soother health is 0.6
+GeraltofRivia's Warlock's health is 2.3
+
+---- VIMOSH's turn - 6
+
+
+VIMOSH's Warlock is fighting with GeraltofRivia's Warlock
+damage: 5.1
+Warlock died
+VIMOSH's Warlock's health is 10.0
+
+---- GeraltofRivia's turn - 6
+
+
+GeraltofRivia's Medic is fighting with VIMOSH's Soother
+Squire got healed to health 9.2
+VIMOSH's Soother health is 0.6
+GeraltofRivia's Medic's health is 11.0
+
+---- VIMOSH's turn - 7
+
+
+VIMOSH's Dragon is fighting with GeraltofRivia's Medic
+damage: 4.5
+GeraltofRivia's Medic health is 6.5
+VIMOSH's Dragon's health is 15.9
+
+---- GeraltofRivia's turn - 7
+
+
+GeraltofRivia's Dragon is fighting with VIMOSH's Soother
+damage: 4.7
+Soother died
+GeraltofRivia's Dragon's health is 15.0
+
+---- VIMOSH's turn - 8
+
+
+VIMOSH's Squire is fighting with GeraltofRivia's Medic
+damage: 3.0
+GeraltofRivia's Medic health is 3.5
+VIMOSH's Squire's health is 7.0
+
+---- GeraltofRivia's turn - 8
+
+
+GeraltofRivia's Squire is fighting with VIMOSH's Warlock
+damage: 3.1
+VIMOSH's Warlock health is 6.9
+GeraltofRivia's Squire's health is 9.2
+
+---- VIMOSH's turn - 9
+
+
+VIMOSH's Warlock is fighting with GeraltofRivia's Medic
+damage: 5.0
+Medic died
+VIMOSH's Warlock's health is 6.9
+
+---- GeraltofRivia's turn - 9
+
+
+GeraltofRivia's Dragon is fighting with VIMOSH's Warlock
+damage: 4.6
+VIMOSH's Warlock health is 2.3
+GeraltofRivia's Dragon's health is 15.0
+
+---- VIMOSH's turn - 10
+
+
+VIMOSH's Dragon is fighting with GeraltofRivia's Squire
+damage: 4.4
+GeraltofRivia's Squire health is 4.8
+VIMOSH's Dragon's health is 15.9
+
+---- GeraltofRivia's turn - 10
+
+
+GeraltofRivia's Squire is fighting with VIMOSH's Warlock
+damage: 3.1
+Warlock died
+GeraltofRivia's Squire's health is 4.8
+
+Battle is draw
+
+  ____  ____      ___        __
+ |  _ \|  _ \    / \ \      / /
+ | | | | |_) |  / _ \ \ /\ / /
+ | |_| |  _ <  / ___ \ V  V /
+ |____/|_| \_\/_/   \_\_/\_/
+
+
+VIMOSH's remaing coins 20
+GeraltofRivia's remaing coins 215
+
+1. Play Battle
+2. Change Player Name
+3. Shop
+4. View your Army
+5. View your Gold Coins
+6. Back to Menu
+
+Enter your choice:
